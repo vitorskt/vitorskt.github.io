@@ -21,6 +21,26 @@ body {
   text-transform: uppercase;
 }
 
+#translate-card {
+  
+  
+}
+
+#logo-translate {
+  width: 120px;
+  display: flex;
+  align-items: center;
+}
+
+#logo-translate a {
+  margin-left: 6px;
+}
+
+#logo-translate a img {
+  width: 1%;
+  height: 1%;
+}
+
 .semi-bold {
   font-weight: 500;
   font-size: 16px;
