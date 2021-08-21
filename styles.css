@@ -21,24 +21,20 @@ body {
   text-transform: uppercase;
 }
 
-#translate-card {
-  
-  
-}
-
 #logo-translate {
-  width: 120px;
-  display: flex;
-  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 525px;
 }
 
 #logo-translate a {
   margin-left: 6px;
+  display: block;
 }
 
-#logo-translate a img {
-  width: 1%;
-  height: 1%;
+#logo-translate a img{
+  width: 16px;
+  height: 16px;
 }
 
 .semi-bold {
